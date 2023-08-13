@@ -21,7 +21,7 @@
 <br>
 
 - A passionate Self-taught Front-end & Back-end developer
-- Playing CTF's at spare time
+- PC Enthusiast!!
 - Currently learning React by Self
 <br><br>
 <div id="user-content-toc">
